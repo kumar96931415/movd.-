@@ -82,6 +82,15 @@ const sampleSongs = [
         url: "128-Mere Mehboob Mere Sanam - Bad Newz 128 Kbps.mp3",
         downloadUrl: "128-Mere Mehboob Mere Sanam - Bad Newz 128 Kbps.mp3"
     }
+    {
+        id: 6,
+        title: "Paani Paani",
+        artist: "Badshah & Aastha Gill",
+        language: "bhojpuri",
+        image: "https://i.ytimg.com/vi/Q6c8X_s1h0Y/maxresdefault.jpg",
+        url: "128-Mere Mehboob Mere Sanam - Bad Newz 128 Kbps.mp3",
+        downloadUrl: "128-Mere Mehboob Mere Sanam - Bad Newz 128 Kbps.mp3"
+    }
 ];
 
 // Function to get image URL with fallback
